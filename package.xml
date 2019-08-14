@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package>
+    <name>estoredevs_hideprice</name>
+    <version>1.0.2</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/OSL-3.0">Open Software License (OSL)</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Hide Price is the most powerful extension for hiding the product price from non-logedIn users.&#xD;
+</summary>
+    <description>Hide Price is the most powerful extension for hiding the product price from non-logedIn users.&#xD;
+This extension encourages users to register on the website.you can hide add to cart button if you want.&#xD;
+To See the product price user required to register and login.</description>
+    <notes>Extension will allow to Hide the price for Non-loggedin User.&#xD;
+</notes>
+    <authors><author><name>tularamaurya</name><user>MAG003116919</user><email>tularamaurya@gmail.com</email></author></authors>
+    <date>2016-01-23</date>
+    <time>22:59:25</time>
+    <contents><target name="mageetc"><dir name="modules"><file name="Estoredevs_Hideprice.xml" hash="8a94d67eaba92452b4d328d9d32773d0"/></dir></target><target name="magelocal"><dir name="Estoredevs"><dir name="Hideprice"><dir name="etc"><file name="adminhtml.xml" hash="e6183dff883f35c0bba685fb9c136c0c"/><file name="config.xml" hash="48e579c386da113f402e4a1e43f62e69"/><file name="system.xml" hash="37330ce2572ba8d78070d51da10faa62"/></dir><file name=".DS_Store" hash="cec80e1da9c35d947b3cd427d8f82332"/></dir><file name=".DS_Store" hash="f465f6a532d8b970460e36056fabe3ea"/></dir></target><target name="magedesign"><dir name="frontend"><dir name="default"><dir name="default"><dir name="layout"><file name="hideprice.xml" hash="6739161bd703cdefd6f072a4b00e82df"/></dir><dir name="template"><dir name="hideprice"><file name="addto.phtml" hash="00f0c7893c79a175c4b0ebb88317c1f3"/><file name="addtocart.phtml" hash="46946041e9584adf213e23ed84828a11"/><dir name="compare"><file name="list.phtml" hash="f63a979030bc9a13a3a4d3146414da2d"/></dir><file name="list.phtml" hash="61eb01be08e68816b9b94fcfceba171e"/><file name="price.phtml" hash="5cab4e2dc1f3fdf70f81ae6e1b0ab5a0"/><file name="related.phtml" hash="9e290f42c8410eb881485b5be9f56f59"/><file name="summary.phtml" hash="f27ffe6983876d3d58c41c0b0c25aea8"/><file name="summary_short.phtml" hash="0b41ec766f3fda9bb1ae998b9a693eb7"/><file name="view.phtml" hash="4bbafc14286a318f0b98fe4a7425eac2"/><file name=".DS_Store" hash="324a42f24cbdd6c561cbf14e1eaad499"/></dir></dir></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>5.5.0</max></php></required></dependencies>
+</package>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<Estoredevs_Hideprice>
+			<active>true</active>
+			<codePool>local</codePool>
+		</Estoredevs_Hideprice>
+	</modules>
+</config>
