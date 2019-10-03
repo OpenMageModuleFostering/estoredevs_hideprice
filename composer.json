@@ -1,17 +1,5 @@
 {
-    "name": "OpenMageModuleFostering/estoredevs_hideprice",
-    "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
-    "homepage": "",
-    "description": "Hide Price is the most powerful extension for hiding the product price from non-logedIn users.
-",
-    "authors": [
-    {
-        "name": "tularamaurya",
-        "email": "tularamaurya@gmail.com"
-    }
-],
-    "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+    "keywords": [
+        "openmage-module"
+    ]
 }
